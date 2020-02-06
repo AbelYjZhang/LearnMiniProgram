@@ -1,3 +1,5 @@
 <view class="container">
 <view>Helloworld</view>
 </view>
+
+<button>知识点一</button>
